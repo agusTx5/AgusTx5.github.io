@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Testing your site locally
-description: How to test your GitHub Pages site locally.
+title: Música
+description: Mis artistas favoritos
 ---
 
 Mis artistas favoritos:
 
-*Queen
-*David Bowie
-*Charly Garcia
-*Luis Alberto Spinetta
-*Kendrick Lamar
+* Queen
+* David Bowie
+* Charly Garcia
+* Luis Alberto Spinetta
+* Kendrick Lamar
