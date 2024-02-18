@@ -7,17 +7,15 @@ description: Página personal
 
 
 
-Bienvenidos a mi página personal
+Bienvenidos a mi página personal.
 
 
 Soy estudiante de la carrera de Administración de Tecnología de Información el el Instituto Técnológico de Costa Rica. 
 Adicionalmente, me encuentro como pasante en Intel desde Enero de 2024, en el puesto de Engineering Project Management Analyst.
 
----
-
 Tengo conocimiento en lenguajes de programación como Java y Python. Además, en Administración de Proyectos empleando metodologías ágiles y tradicionales. 
 
-
+---
 
 Dentro de mis intereses personales se encuentran la [música](pages/musica.html) y los [videojuegos](pages/videojuegos.html).
 
