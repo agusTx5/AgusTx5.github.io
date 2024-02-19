@@ -23,6 +23,6 @@ Dentro de mis intereses personales se encuentran la [música](pages/musica.html)
 
 Este es mi [github](https://github.com/agusTx5).
 
-![octocat](https://i1.wp.com/ph-files.imgix.net/15741175-00a6-449f-8ea7-3db3c48349a8.png?w=346&q=75)
+![octocat](https://i1.wp.com/ph-files.imgix.net/15741175-00a6-449f-8ea7-3db3c48349a8.png?w=346&q=75 = 32x32)
 
 ---
